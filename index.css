@@ -17,3 +17,24 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
+#arrow_container {
+    display: flex;
+}
+.arrows {
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#arrowLeft {
+    background-image: url(assets/images/arrowLeft.png);
+}
+#arrowRight {
+    background-image: url(assets/images/arrowRight.png);
+}
+#arrowUp {
+    background-image: url(assets/images/arrowUp.png);
+}
+#arrowDown {
+    background-image: url(assets/images/arrowDown.png);
+}
