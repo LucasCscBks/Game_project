@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#container {
+    width: 600px;
+    height: 200px;
+    border: 5px solid;
+    margin-left: 2vw;
+    margin-top: 2vh;
+}
+#player {
+    width: 100px;
+    height: 100px;
+    background-image: url(assets/images/mario.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
